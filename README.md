@@ -5,8 +5,7 @@ Assignment for arrays, objects
 - [Objects](https://www.w3schools.com/js/js_objects.asp)
 - [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
-1. 
-Create an object to hold information on your favorite recipe. It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
+1. Create an object to hold information on your favorite recipe. It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
 On separate lines (one console.log statement for each), log the recipe information so it looks like:
       Mole
       Serves: 2
