@@ -1,7 +1,9 @@
-# js-phase-4
+# Javascript-phase-4
 Assignment for arrays, objects
 
-> Read on object oriented programming in Javascript [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS) 
+- Read on object oriented programming in Javascript [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS) 
+- [Objects](https://www.w3schools.com/js/js_objects.asp)
+- [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
 1. 
 Create an object to hold information on your favorite recipe. It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
