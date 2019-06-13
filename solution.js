@@ -10,4 +10,6 @@ console.log("add half a teaspoon of" +  "" + ingrdients[2]);
 console.log("soak the" + "" + ingrdients[0] + "" + "in the egg mixture");
 console.log("put the" + "" + ingredients[0] + "" + "on the pan and turn both sides");
 console.log("remove from pan when golden and serve");
-
+//solution 2
+var books =[{title: "The Hobbit", author: "J.R.R tolken", alreadyRead: true,}, {title: "The lord of the rings", author: "J.R.R Tolken", alreadyRead: true,}, {title: "Harry Porter", author: "J.K Rowling", alreadyRead=false}];
+books.foreach(function(book) {
